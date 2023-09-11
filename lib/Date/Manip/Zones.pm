@@ -789,6 +789,7 @@ $LastYear      = '2093';
 );
 
 %Alias = (
+  'fle standard time'                  => 'europe/kiev',
   'a'                                  => 'a',
   'africa/abidjan'                     => 'africa/abidjan',
   'africa/algiers'                     => 'africa/algiers',
